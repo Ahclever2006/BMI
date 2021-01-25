@@ -1,0 +1,11 @@
+{
+    "GenderMale": "ذكر", 
+    "GenderFemale": "انثى",
+    "Height": "الطول", 
+    "Weight": "الوزن",
+    "Age": "العمر", 
+    "Calculate": "احسب",
+    "Recalculate": "اعد الحساب",
+    "YourResult": "نتيجتك"
+
+}

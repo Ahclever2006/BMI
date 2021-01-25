@@ -1,0 +1,13 @@
+{
+    "GenderMale": "Male", 
+    "GenderFemale": "Female",
+    "Height": "Height", 
+    "Weight": "Weight",
+    "Age": "Age", 
+    "Calculate": "Calculate",
+    "Recalculate": "Recalculate",
+    "YourResult": "Your Result"
+
+
+
+}
